@@ -6,3 +6,6 @@ Test Test Test
 * 4
 * 5
 * 6
+
+# Heading 2
+Test
