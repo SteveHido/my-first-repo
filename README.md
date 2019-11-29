@@ -4,8 +4,8 @@ Test Test Test
 * 2
 * 3.5
 * 4.5
-* 5
-* 6
+* 5.5
+* 6.75
 
 # Heading 2
 Test
